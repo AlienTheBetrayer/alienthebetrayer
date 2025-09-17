@@ -6,7 +6,7 @@ I began with scripting in **Python, Lua, and Ruby**, where I learned the fundame
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge) ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
 
-# Systems & Advanced Foundations
+# Low-end mastery
 Building on those beginnings, I advanced into **C#** and mastered **modern C and C++**, exploring memory management, performance optimization, and advanced programming paradigms. Alongside this, I studied **Reverse Engineering** and worked directly with **Assembly Language**, which refined a systems-oriented mindset and sharpened my ability to reason about performance, security, and the inner workings of software at every layer.
 
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge) ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=for-the-badge) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white&style=for-the-badge) ![x86 / x64 Assembly](https://img.shields.io/badge/x86/x64%20Assembly-004478?style=for-the-badge&logo=none)
