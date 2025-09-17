@@ -1,3 +1,5 @@
+![background](https://github.com/AlienTheBetrayer/alienthebetrayer/blob/main/bg.png)
+
 # The Origins
 I began with scripting in Python, Lua, and Ruby, advanced into C#, and mastered modern C / C++ alongside reverse engineering and using Assembly. This deep systems background sharpened my ability to reason about performance, security, and the inner workings of software at every layer. 
 
