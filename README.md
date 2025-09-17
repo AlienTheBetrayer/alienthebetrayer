@@ -16,7 +16,7 @@ Building on those beginnings, I advanced into **C#** and mastered **modern C and
 </br>
 
 # Today's Expertise
-Today, I apply that expertise to **TypeScript, React, HTML, CSS, and Tailwind**, where I design and implement scalable, maintainable, and enterprise-ready applications. My approach blends low-level precision with modern architectural practices, resulting in solutions that are both technically robust and elegantly crafted for long-term growth.
+Today, I apply that expertise to **TypeScript, React, HTML, CSS, and Tailwind**, where I design and implement scalable, maintainable, and enterprise-ready applications, coupled with a strong focus on user experience, leveraging libraries like **Framer Motion and Three.js**. My approach blends low-level precision with modern architectural practices, resulting in solutions that are both technically robust and elegantly crafted for long-term growth.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge) ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
