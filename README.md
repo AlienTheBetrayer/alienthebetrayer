@@ -1,4 +1,5 @@
 ![background](https://github.com/AlienTheBetrayer/alienthebetrayer/blob/main/bg.png)
+## [My Portfolio](https://github.com/AlienTheBetrayer/portfolio)
 
 # The Beginnings
 I began with scripting in **Python, Lua, and Ruby**, where I learned the fundamentals of programming and problem-solving through small projects and experiments. These early experiences gave me a strong grasp of logic, control flow, and the foundations of software development, while also sparking my interest in understanding how systems really work.
@@ -17,4 +18,3 @@ Today, I apply that expertise to **TypeScript, React, HTML, CSS, and Tailwind**,
 
 ![Three.js](https://img.shields.io/badge/-Three.js-000000?logo=three.js&logoColor=white&style=for-the-badge) ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?logo=framer&logoColor=white&style=for-the-badge)
 
-## [My Portfolio](https://github.com/AlienTheBetrayer/portfolio)
