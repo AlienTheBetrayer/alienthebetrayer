@@ -1,5 +1,6 @@
 ![background](https://github.com/AlienTheBetrayer/alienthebetrayer/blob/main/bg.png)
-## [My Portfolio](https://universe-omega-six.vercel.app/)
+## [My Portfolio](glebpichkurov.vercel.app)
+## [My Portfolio 2](bentoshowcase.vercel.app)
 
 # The Beginnings
 I began with scripting in **Python, Lua, and Ruby**, where I learned the fundamentals of programming and problem-solving through small projects and experiments. These early experiences gave me a strong grasp of logic, control flow, and the foundations of software development, while also sparking my interest in understanding how systems really work.
